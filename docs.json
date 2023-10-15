@@ -1,8 +1,8 @@
 {
   "name": "FlutterConfig CLI",
   "theme": "#36B9B9",
-  "logo": "https://raw.githubusercontent.com/Mastersam07/flutterconfig_cli/dev/docs/assets/flutterconfig.png",
-  "logoDark": "https://raw.githubusercontent.com/Mastersam07/flutterconfig_cli/dev/docs/assets/flutterconfig.png",
+  "logo": "https://raw.githubusercontent.com/Mastersam07/flutterconfig_cli/master/docs/assets/flutterconfig.png",
+  "logoDark": "https://raw.githubusercontent.com/Mastersam07/flutterconfig_cli/master/docs/assets/flutterconfig.png",
   "twitter": "mastersam_",
   "anchors": [
     {
