@@ -1,0 +1,46 @@
+{
+  "name": "FlutterConfig CLI",
+  "theme": "#36B9B9",
+  "logo": "https://raw.githubusercontent.com/Mastersam07/flutterconfig_cli/dev/docs/assets/flutterconfig.png",
+  "logoDark": "https://raw.githubusercontent.com/Mastersam07/flutterconfig_cli/dev/docs/assets/flutterconfig.png",
+  "twitter": "mastersam_",
+  "anchors": [
+    {
+      "title": "Homepage",
+      "icon": "house",
+      "link": "https://github.com/mastersam07/flutterconfig_cli"
+    }
+  ],
+  "sidebar": [
+    [
+      "Getting Started",
+      [
+        ["Overview", "/"],
+        ["Getting Started", "/getting-started"],
+        ["Configuration", "/configuration"],
+        ["Usage", "/usage"]
+      ]
+    ],
+    [
+      "Configurations",
+      [
+        [
+          "Metadata",
+          "/metadata"
+        ],
+        [
+          "Platform Specific",
+          "/platform-specific"
+        ],
+        [
+          "Visual Assets",
+          "/visual-assets"
+        ]
+      ]
+    ],
+    [
+      "Contributing",
+      "/contributing"
+    ]
+  ]
+}
